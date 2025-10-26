@@ -1,6 +1,6 @@
-# Hi, I'm Mile Sarić 👋
+# Hi, I'm Milorad Sarić �
 
-💻 Beginner Python Developer | Web Scraping • APIs • Data Analysis  
+Beginner Python Developer | Web Scraping • APIs • Data Analysis  
 🇸🇰 Based in Slovakia  
 
 I’m passionate about building small but practical Python projects to learn automation, API development, and data analysis.  
@@ -8,7 +8,7 @@ This profile is my personal portfolio showcasing what I’ve been learning and b
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 - **Languages:** Python  
 - **Web Scraping & Automation:** requests, BeautifulSoup  
@@ -18,7 +18,7 @@ This profile is my personal portfolio showcasing what I’ve been learning and b
 
 ---
 
-## 🚀 My Projects
+## My Projects
 
 | Project | Description | Link |
 |---------|-------------|------|
@@ -28,10 +28,10 @@ This profile is my personal portfolio showcasing what I’ve been learning and b
 
 ---
 
-## 📫 Contact Me
+## Contact Me
 
 - GitHub: [@Saric2000](https://github.com/Saric2000)  
-- Email: saricmile2000@gmail.com *(optional, if you want to share)*  
+- Email: miloradsss@icloud.com  
 
 ---
 
