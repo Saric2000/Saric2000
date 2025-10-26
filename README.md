@@ -27,10 +27,10 @@ This profile is my personal portfolio showcasing what I’ve been learning and b
 |---------|-------------|------|
 | **Price Tracker Scraper** | Collects product/book prices and saves to CSV using Python. | [Repo](https://github.com/Saric2000/PythonPortfolio/tree/main/PriceTracker) |
 | **Random Quote API** | Mini Flask API returning random quotes in JSON. | [Repo](https://github.com/Saric2000/PythonPortfolio/tree/main/RandomQuotesGenerator) |
-| **Fuel Prices Analysis** | Analyzes fuel price trends using pandas and matplotlib. | [Repo](https://github.com/Saric2000/PythonPortfolio/tree/main/FuelPricesTracker) |
+| **Fuel Prices Analysis** | Analyzes fuel price trends using pandas and matplotlib. | [Repo](https://github.com/Saric2000/PythonPortfolio/tree/main/FuelPriceTracker) |
 [![Price Tracker Scraper](https://img.shields.io/badge/Project-Price%20Tracker-blue)](https://github.com/Saric2000/PythonPortfolio/tree/main/PriceTracker)
 [![Random Quote API](https://img.shields.io/badge/Project-Random%20Quote%20API-green)](https://github.com/Saric2000/PythonPortfolio/tree/main/RandomQuotesGenerator)
-[![Fuel Prices Analysis](https://img.shields.io/badge/Project-Fuel%20Prices-red)](https://github.com/Saric2000/PythonPortfolio/tree/main/FuelPricesTracker)
+[![Fuel Prices Analysis](https://img.shields.io/badge/Project-Fuel%20Prices-red)](https://github.com/Saric2000/PythonPortfolio/tree/main/FuelPriceTracker)
 
 ---
 
