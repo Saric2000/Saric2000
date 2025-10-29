@@ -21,16 +21,6 @@ This profile is my personal portfolio showcasing what I’ve been learning and b
 
 ---
 
-## My Projects
-
-| Project | Description | Link |
-|---------|-------------|------|
-| **Price Tracker Scraper** | Collects product/book prices and saves to CSV using Python. | [Repo](https://github.com/Saric2000/python-portfolio/tree/main/price-tracker-scrapper) |
-| **Random Quote API** | Mini Flask API returning random quotes in JSON. | [Repo](https://github.com/Saric2000/python-portfolio/tree/main/random-quotes-api) |
-| **Fuel Prices Analysis** | Analyzes fuel price trends using pandas and matplotlib. | [Repo](https://github.com/Saric2000/python-portfolio/tree/main/fuel-prices-analysis) |
-
----
-
 ## Contact Me
 
 - GitHub: [@Saric2000](https://github.com/Saric2000)  
@@ -38,5 +28,5 @@ This profile is my personal portfolio showcasing what I’ve been learning and b
 
 ---
 
-⭐ Thanks for visiting my profile!  
+Thanks for visiting my profile!  
 I’m always learning and open to small projects or collaborations.
